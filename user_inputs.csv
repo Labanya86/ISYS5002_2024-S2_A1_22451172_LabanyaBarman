@@ -1,0 +1,4 @@
+Age,Gender,Weight,Height,Smoker,Drinker,Exercise,Heart Risk
+25,male,80.0,172.0,Smoker,Non-drinker,Inactive,High
+35,male,35.0,172.0,Non-smoker,Non-drinker,Active,Low
+25, male, 82.0, 172.0, Non-smoker, Non-drinker, Active, Medium
